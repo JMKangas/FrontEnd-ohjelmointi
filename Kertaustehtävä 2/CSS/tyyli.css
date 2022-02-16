@@ -1,0 +1,51 @@
+.row {
+    margin-top: 15em;
+    margin: auto;
+    width: 50%;
+}
+
+.container1 {
+
+    margin: auto;
+    width: 50em;
+}
+
+.container2 {
+
+    margin:auto;
+    width: 60%;
+    text-align: center;
+    background-color: #ebebeb;
+
+}
+
+.login {
+
+    margin: auto;
+    width: 60%;
+    text-align: center;
+    background-color: #eb4960;
+    color: #feeee4;
+
+}
+
+.block {
+
+    width: 50%;
+    background-color: #eb4960;
+    color: #feeee4;
+
+}
+
+.remember {
+
+    text-align: left;
+    margin-left: 6.8em;
+
+}
+
+.forgot {
+
+    margin-bottom: 2em;
+
+}
