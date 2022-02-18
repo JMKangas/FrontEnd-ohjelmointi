@@ -1,0 +1,18 @@
+#boksi {
+    width: 15em;
+    height: 10em;
+    margin-top: 1em;
+    margin-left: 3em;
+    background-color: blue;
+
+}
+
+.row {
+    margin-left: 2em;
+}
+
+.block {
+    margin-left: 4em;
+    background-color: rgb(105, 11, 11);
+    color: rgb(9, 240, 240);
+}
