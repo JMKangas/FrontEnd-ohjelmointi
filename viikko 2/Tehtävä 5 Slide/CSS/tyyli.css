@@ -1,0 +1,48 @@
+
+.otsikko {
+
+    margin-left: 2em;
+    font-weight: bold;
+
+}
+
+.valikko {
+
+    font-size: 1.2em;
+    margin-left: 3.9em;
+    font-size: 1.4em;
+    list-style-type: "+";
+
+}
+
+.valikko1 {
+
+    font-size: 1.2em;
+    margin-left: 3.9em;
+    font-size: 1.4em;
+    list-style-type: "+";
+
+}
+
+.valikko2 {
+
+    font-size: 1.2em;
+    margin-left: 3.9em;
+    font-size: 1.4em;
+    list-style-type: "+";
+
+}
+
+.nayta {
+
+    display: none;
+    font-size: 1.2em;
+    margin-left: 3em;
+    list-style-type: "+";
+}
+
+.row {
+
+    height: 40em;
+
+}
