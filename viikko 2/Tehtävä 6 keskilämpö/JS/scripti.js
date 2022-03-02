@@ -7,18 +7,18 @@ $(document).ready(function(){
     
     if(tilanne == false) {
 
-    january();
-    february();
-    march();
-    april();
-    may();
-    june();
-    july();
-    august();
-    september();
-    october();
-    november();
-    december();
+      january();
+      february();
+      march();
+      april();
+      may();
+      june();
+      july();
+      august();
+      september();
+      october();
+      november();
+      december();
 
     tilanne = true;
 
